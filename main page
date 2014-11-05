@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<h1>Fresh Vegetables</h1>
+<form action="">
+		<input type="checkbox" name="apples" value="Apples">Apples</input>
+	<select name="apples">
+	<option value="green">Green Apples</option>
+	<option value="red">Red Apples</option>
+	<option value="both">Both</option>
+	</select><br>
+	<input type="checkbox" name="asparagus" value="Asparagus">Asparagus<br>
+	<input type="checkbox" name="brocoli" value="Brocoli">Brocoli<br>
+	<input type="checkbox" name="carrots" value="Carrots">Carrots<br>
+	<input type="checkbox" name="cauliflower" value="Cauliflower">Cauliflower<br>
+	<input type="checkbox" name="celery" value="Celery">Celery<br>
+	<input type="checkbox" name="corn" value="Corn">Corn<br>
+	<input type="checkbox" name="cucumbers" value="Cucumbers">Cucumbers<br>
+	<input type="checkbox" name="lettuce" value="Lettuce">Lettuce<br>
+	<input type="checkbox" name="mushrooms" value="Mushrooms">Mushrooms<br>
+	<input type="checkbox" name="onions" value="Onions">Onions<br>
+	<input type="checkbox" name="peppers" value="Peppers">Peppers<br>
+	<input type="checkbox" name="potatoes" value="Potatoes">Potatoes</input>
+	<select name="potatoes">
+	<option value="10_lb">10 lb</option>
+	<option value="5_lb">5 lb</option>
+	</select><br>
+	<input type="checkbox" name="spinach" value="Spinach">Spinach<br>
+	<input type="checkbox" name="squash" value="Squash">Squash<br>
+	<input type="checkbox" name="zucchini" value="Zucchini">Zucchini<br>
+	<input type="checkbox" name="tomatoes" value="Tomatoes">Tomatoes<br>
+
+</select>
+</form>
+</body>
+</html>
